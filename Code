@@ -1,0 +1,13 @@
+"" challenge 1"""
+name = input("please enter your name: ")
+age = input("please enter your age: ")
+talent = input("please enter your talent: ")
+
+""" Conversation """
+
+print("Hi, My name is Yousra Farhani, nice to see you, what is your name?")
+print("Hello! my name is",name,"nice to meet you too")
+print("I am a 20 yo computer science student what about you? ")
+print("Oh nice, I am",age,"medical student")
+print("great, what is your hidden talent that makes everyone pleased to know you?")
+print("Hmm, I think I am good at",talent)
